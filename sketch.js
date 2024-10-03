@@ -23,5 +23,6 @@ let recomendacao = geraRecomendacao(idade);
 function geraRecomendacao(idade) 
  if(idade >=14)  
    return "Panico na floresta";
-
+else 
+   
 }
